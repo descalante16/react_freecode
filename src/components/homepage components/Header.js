@@ -30,9 +30,9 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item fs-5">
-                <a className="nav-link" href="#about">
+              <Link to="/about" className="nav-link">
                   About
-                </a>
+                </Link>
               </li>
               <li className="nav-item fs-5">
                 <a className="nav-link" href="#contact">

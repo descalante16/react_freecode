@@ -1,5 +1,37 @@
 .page {
     background-color: #282D35;
     height: 100vh;
+
     
 }
+
+.App{
+
+    background-color: #1A1B21;
+
+}
+
+.card{
+    background-color: #1A1B21;
+    width: 400px;
+   
+}
+
+.job{
+    color: #F3BF99;
+
+}
+
+.custom-icon-linked{
+
+    fill: white;
+}
+
+.about-footer{
+    background-color: #161619;
+}
+
+.white-icon {
+    fill:invert(100%);
+  }
+  
