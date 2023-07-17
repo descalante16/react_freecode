@@ -14,11 +14,18 @@ const AFooter = () => {
             
 
 
-            <img src={twitterIcon} alt="Email Icon" width="35" height="35" className=" white-icon align-items-center mb-1 me-4" />
-            <img src={fbIcon} alt="Email Icon" width="35" height="35" className="white-icon align-items-center mb-1 me-4" />
-            <img src={instaIcon} alt="Email Icon" width="35" height="35" className="white-icon align-items-center mb-1 me-4" />
-            <img src={githubIcon} alt="Email Icon" width="35" height="35" className="white-icon align-items-center mb-1" />
-
+        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+             <img src={twitterIcon} alt="Twitter Icon" width="30" height="30" className="social-icon align-items-center mb-1 me-4" />
+        </a>
+        <a href="https://facebook.com/desiriezinm" target="_blank" rel="noopener noreferrer">
+            <img src={fbIcon} alt="Facebook Icon" width="30" height="30" className="social-icon align-items-center mb-1 me-4" />
+        </a>
+        <a href="https://www.instagram.com/desca_rie" target="_blank" rel="noopener noreferrer">
+            <img src={instaIcon} alt="Instagram Icon" width="30" height="30" className="social-icon align-items-center mb-1 me-4" />
+        </a>
+        <a href="https://github.com/descalante16" target="_blank" rel="noopener noreferrer">
+            <img src={githubIcon} alt="Github Icon" width="30" height="30" className="social-icon align-items-center mb-1" />
+        </a>
             </div>
             
         </div>
